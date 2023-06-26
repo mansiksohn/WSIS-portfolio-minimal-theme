@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Hello Portfolio" },
+    "logo": { "text": "WSIS" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -37,7 +37,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
