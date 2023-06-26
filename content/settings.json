@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://mansiksohn.github.io/",
-    "title": "WSIS",
+    "title": "What Should I Say?",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Mansiksohn",
@@ -21,9 +21,9 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Products", "url": "/#products" },
+        { "label": "Miscellaneous", "url": "/#miscellaneous" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
