@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "안녕하세요",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "프로덕트 디자이너 입니다",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "인간과 시스템의 ",
+    "highlight": "대화가 필요한 ",
+    "suffix": "프로덕트를 만듭니다."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "음성 인터페이스, 접근성, 교육 프로덕트의 설계와 사용성 분석/평가.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
