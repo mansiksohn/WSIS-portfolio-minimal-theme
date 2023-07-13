@@ -2,23 +2,19 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🦾 Accessibility",
+      "title": "대화하는 키오스크",
+      "description": "언뜻 생각하기에는 키오스크가 점원의 역할을 수행하게 된 것처럼 보이지만 사실은 그렇지 않습니다. 점원의 역할을 담당하는 것은 키오스크를 사용하는 고객입니다. 점원이 주문받는 매대를 고객 방향으로 돌려두고 고객이 와서 점원 역할까지 하게 만든 것이죠. 키오스크는 친절하게 안내해 주는 것처럼 보이만 따지고 보면 키오스크는 고객을 교육시키고 있는 것입니다. 숙련된 점원이 빠르게 판단해 처리하던 일을 비숙련 고객이 그때그때 배워가면서 하는 것이죠. 점원의 업무를 아주 작게 나눠 고객들에게 분배했고 인건비를 지출하지 않게 되었지만, 업무의 스트레스는 그대로 남아 고객들에게 전가된 것입니다.",
+      "tags": ["민원서식 작성을 돕는 방법", "기계 그리고 사람과 공존하는 방법"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/sd-kiosk.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://brunch.co.kr/@gosainthan6jvw/80"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://brunch.co.kr/@gosainthan6jvw/80"
         }
       ]
     },
@@ -42,7 +38,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "포트폴리오 보기",
+    "url": "/Portfolio.pdf"
   }
 }

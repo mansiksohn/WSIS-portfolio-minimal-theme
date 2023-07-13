@@ -1,64 +1,50 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "대화 경험",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/cux.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "AI 페르소나",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/alien-monster.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "접근성",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/mechanical-arm.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "문제해결",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/plunger.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "관찰과 이해",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/x-ray.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "기술과 윤리",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/mouse-trap.png",
         "alt": ""
       }
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "+ Load More",
     "initiallyShownInterests": 5
   }

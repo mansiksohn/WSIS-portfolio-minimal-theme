@@ -3,15 +3,15 @@
     "language": "en",
     "siteUrl": "https://mansiksohn.github.io/",
     "title": "What Should I Say?",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "titleTemplate": "%s · WSIS",
+    "description": "Conversational Product Designer Mansiksohn's portfolio",
     "author": "Mansiksohn",
     "avatar": "../content/images/favicon.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I'm Mansik Sohn, AI conversational product designer.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/mansiksohn",
-      "medium": "https://brunch.co.kr/@gosainthan6jvw",
+      "medium": "https://medium.com/@mansiksohn",
       "linkedin": "https://www.linkedin.com/in/mansiksohn/",
       "mail": "mailto:mansiksohn@gmail.com"
     }
@@ -27,8 +27,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Portfolio",
+        "url": "/Portfolio.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
