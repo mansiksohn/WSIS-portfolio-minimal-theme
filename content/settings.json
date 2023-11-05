@@ -6,18 +6,21 @@
     "titleTemplate": "%s · WSIS",
     "description": "Conversational Product Designer Mansiksohn's portfolio",
     "author": "Mansiksohn",
-    "avatar": "../content/images/favicon.png",
+    "avatar": "../content/images/x-ray.png",
     "bio": "I'm Mansik Sohn, AI conversational product designer.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/mansiksohn",
-      "medium": "https://medium.com/@mansiksohn",
+      "medium": "https://brunch.co.kr/@gosainthan6jvw/",
       "linkedin": "https://www.linkedin.com/in/mansiksohn/",
       "mail": "mailto:mansiksohn@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "WSIS" },
+    "logo": { 
+      "image": "../content/images/wsis-logo.svg", 
+      "imageDark": "../content/images//wsis-logo-dark.svg" 
+    }, 
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +31,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Portfolio",
-        "url": "/Portfolio.pdf"
+        "url": "https://wsis.webflow.io/"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
@@ -37,7 +40,7 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": false,
+      "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
   }

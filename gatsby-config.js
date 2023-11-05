@@ -10,7 +10,7 @@ module.exports = {
           shortName: "WSIS", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
-          themeColor: "#000000", // Used in manifest.json
+          themeColor: "#0f0e0e", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",

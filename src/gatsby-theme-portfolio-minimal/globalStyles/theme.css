@@ -9,7 +9,7 @@ body[data-theme='lightTheme'] {
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
-    --base-font: 'IBM Plex Sans KR', Arial, sans-serif;
+    --base-font: 'Noto Sans KR', Arial, sans-serif;
     --code-block-bg: #151f28;
     --code-block-var: #ff39a7;
     --code-block-num: #fed703;
@@ -25,12 +25,12 @@ body[data-theme='darkTheme'] {
     --tertiary-color: #252525;
     --text-color: rgba(255, 255, 255, 0.87);
     --subtext-color: #aaaaaa;
-    --background-color: #121212;
+    --background-color: #0f0e0e;
     --card-background-color: #1c1c1c;
     --scroll-bar-color: rgba(255, 255, 255, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
     --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
-    --base-font: 'IBM Plex Sans KR', Arial, sans-serif;
+    --base-font: 'Noto Sans KR', Arial, sans-serif;
     --code-block-bg: #151f28;
     --code-block-var: #ff39a7;
     --code-block-num: #fed703;
@@ -38,4 +38,17 @@ body[data-theme='darkTheme'] {
     --code-block-keyword: #2bdcff;
     --code-block-comment: #8292a2;
     --code-block-tkimp: #fd971f;
+}
+
+.style-module--Logo--c7351 svg {
+    width: 2rem !important;
+    height: 2rem !important;
+}
+
+.style-module--Logo--c7351 {
+    line-height: 1rem !important;
+}
+
+*:focus {
+    outline: none !important;
 }
