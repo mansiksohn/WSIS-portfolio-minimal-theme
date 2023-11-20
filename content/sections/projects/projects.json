@@ -39,6 +39,6 @@
   "button": {
     "visible": true,
     "label": "포트폴리오 보기",
-    "url": "/Portfolio.pdf"
+    "url": "https://wsis.webflow.io/"
   }
 }
