@@ -1,6 +1,6 @@
 {
   "siteMetadata": {
-    "language": "en",
+    "language": "kr",
     "siteUrl": "https://mansiksohn.github.io/",
     "title": "What Should I Say?",
     "titleTemplate": "%s · WSIS",
@@ -9,10 +9,6 @@
     "avatar": "../content/images/x-ray.png",
     "bio": "I'm Mansik Sohn, AI conversational product designer.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/mansiksohn",
-      "medium": "https://brunch.co.kr/@gosainthan6jvw/",
-      "linkedin": "https://www.linkedin.com/in/mansiksohn/",
       "mail": "mailto:mansiksohn@gmail.com"
     }
   },

@@ -2,14 +2,32 @@
   "projects": [
     {
       "visible": true,
+      "category": "🎓 AI Education",
+      "title": "AI 셰도잉 어린이 영어학습",
+      "description": "이 AI 발음분석 기반 영어교육 서비스는 어린이들이 영어 학습에 대한 긍정적인 태도를 갖추고 유창성을 빠르게 향상시키는 데 초점을 맞추고 있습니다. 어린이들은 우주 구하기라는 흥미진진한 스토리를 따라가며 다양한 주제의 책을 읽고, 이를 통해 자연스러운 언어 노출과 반복 학습을 경험합니다. 이 과정에서, AI가 아이들의 발음을 상세히 분석하여 교사들이 더욱 명확하고 효과적인 지도 방향을 설정할 수 있도록 도와줍니다.",
+      "tags": ["AI 도움으로 제대로 읽어보기", "자연스러운 언어 습득"],
+      "image": {
+        "src": "../../images/AI-Shadowing-000.png",
+        "alt": "Ai Education",
+        "linkTo": "../20230201-AI-Shadowing/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "../20230201-AI-Shadowing/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🦾 Accessibility",
       "title": "대화하는 키오스크",
       "description": "언뜻 생각하기에는 키오스크가 점원의 역할을 수행하게 된 것처럼 보이지만 사실은 그렇지 않습니다. 점원의 역할을 담당하는 것은 키오스크를 사용하는 고객입니다. 점원이 주문받는 매대를 고객 방향으로 돌려두고 고객이 와서 점원 역할까지 하게 만든 것이죠. 키오스크는 친절하게 안내해 주는 것처럼 보이만 따지고 보면 키오스크는 고객을 교육시키고 있는 것입니다. 숙련된 점원이 빠르게 판단해 처리하던 일을 비숙련 고객이 그때그때 배워가면서 하는 것이죠. 점원의 업무를 아주 작게 나눠 고객들에게 분배했고 인건비를 지출하지 않게 되었지만, 업무의 스트레스는 그대로 남아 고객들에게 전가된 것입니다.",
       "tags": ["민원서식 작성을 돕는 방법", "기계 그리고 사람과 공존하는 방법"],
       "image": {
         "src": "../../images/sd-kiosk.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://brunch.co.kr/@gosainthan6jvw/80"
+        "alt": "Kiosk for everyone",
+        "linkTo": "../../20220712-Accessible-Kiosk/"
       },
       "links": [
         {
@@ -20,17 +38,17 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🙋‍♂️ User Research",
+      "title": "북미 차량용 인포테인먼트의 제안 및 연결 기능 사용성 연구",
+      "description": "이 프로젝트는 사용자 중심의 신규 레이아웃과 카드 기능을 면밀히 평가하는 데 초점을 맞췄습니다. 태블릿과 주행 시뮬레이터를 이용한 창의적인 WOZ 테스트를 통해, PIN 코드 없는 로그인의 편의성, 차량 및 스마트폰과의 원활한 연결, 메시지 수신 및 캘린더 기능의 유용성을 SEQ와 NPS 지표로 정밀하게 분석했습니다. 이 과정에서 캘린더 기능의 전화 및 내비게이션 접근성이 특히 높은 평가를 받았습니다. 물론, 운전 중 메시지 표시와 같은 영역에서는 개선의 여지를 발견했죠. 이러한 상세한 분석을 통해, 전체적인 사용자 경험 개선을 위한 구체적이고 실질적인 조언을 담은 보고서를 클라이언트에게 제출했습니다.",
+      "tags": ["User Research", "Vehicle infotainment UX"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/Vehicle-infotainment-system.jpg",
+        "alt": "차량 인포테인먼트 시스템"
       },
       "links": [
         {
-          "type": "github",
+          "type": "external",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
